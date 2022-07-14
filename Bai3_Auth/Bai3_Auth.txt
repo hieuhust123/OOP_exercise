@@ -1,0 +1,1 @@
+Debug/ManagerCandidate.cpp.o Debug/CandidateC.cpp.o Debug/CandidateB.cpp.o Debug/CandidateA.cpp.o Debug/Candidate.cpp.o Debug/main.cpp.o

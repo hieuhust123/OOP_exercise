@@ -1,0 +1,1 @@
+Debug/Document.cpp.o Debug/Journal.cpp.o Debug/Newspaper.cpp.o Debug/main.cpp.o Debug/ManagerDocument.cpp.o Debug/Book.cpp.o
