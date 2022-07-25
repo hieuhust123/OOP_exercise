@@ -1,0 +1,1 @@
+Debug/School.cpp.o Debug/Student.cpp.o Debug/main.cpp.o

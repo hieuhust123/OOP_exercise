@@ -1,0 +1,1 @@
+Debug/ManagerVehicle.cpp.o Debug/Car.cpp.o Debug/Truck.cpp.o Debug/Motorbike.cpp.o Debug/Vehicle.cpp.o Debug/main.cpp.o

@@ -1,0 +1,1 @@
+Debug/Teachermanager.cpp.o Debug/Teacher.cpp.o Debug/main.cpp.o
